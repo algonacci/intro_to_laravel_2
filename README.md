@@ -1,3 +1,9 @@
+## Blade Templating
+
+![alt_text](https://github.com/algonacci/intro_to_laravel_2/blob/main/1.jpg?raw=true)
+![alt_text](https://github.com/algonacci/intro_to_laravel_2/blob/main/2.jpg?raw=true)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
